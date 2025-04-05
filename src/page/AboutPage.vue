@@ -4,12 +4,12 @@
   <AboutUs/>
   <CallToAction/>
   <TestimonySection/>
-  <statisticsSection/>
+  <StatisticsSection/>
 </template>
 <script setup>
 import BgContainer from "../components/composible/BgContainer.vue";
 import AboutUs from '../components/homePage/AboutUs.vue'
 import CallToAction from '../components/homePage/CallToAction.vue'
 import TestimonySection from '../components/homePage/TestimonySection.vue'
-import statisticsSection from '../components/homePage/statisticsSection.vue'
+import StatisticsSection from '../components/homePage/StatisticsSection.vue'
 </script>
