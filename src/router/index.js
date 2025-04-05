@@ -7,7 +7,7 @@ import CarsPage from "../page/CarsPage.vue";
 import CarsDetails from "../page/CarsDetails.vue";
 import PricingPage from "../page/PricingPage.vue";
 import BlogPage from "../page/BlogPage.vue";
-import BlogDetails from '../page/blogDetails.vue'; 
+import BlogDetails from '../page/BlogDetails.vue'; 
 import AboutPage from "../page/AboutPage.vue";
 
 const routes = [
