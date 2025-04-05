@@ -66,7 +66,7 @@
   
   <script setup>
   import { ref } from "vue";
-  import { cars } from "../data/carsData"; // Assuming this imports the data correctly
+  import { cars } from "../data/CarsData"; // Assuming this imports the data correctly
   import { AkCheck } from "@kalimahapps/vue-icons";
   import { SuCross } from "@kalimahapps/vue-icons";
   
