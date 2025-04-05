@@ -7,7 +7,7 @@ import CarsPage from "../page/CarsPage.vue";
 import CarsDetails from "../page/CarsDetails.vue";
 import PricingPage from "../page/PricingPage.vue";
 import BlogPage from "../page/BlogPage.vue";
-import blogDetails from "../page/blogDetails.vue";
+import BlogDetails from '../page/blogDetails.vue'; 
 import AboutPage from "../page/AboutPage.vue";
 
 const routes = [
@@ -33,7 +33,7 @@ const routes = [
       {
         path: "/blog/:id",
         name: "blogDetails",
-        component: blogDetails,
+        component: BlogDetails,
       },
       {
         path: "/cars",
